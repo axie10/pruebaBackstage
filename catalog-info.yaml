@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: mi-prueba-añadir-nueva-entidad
+  description: Ejemplo de como añadir una nueva entidad.
+  # Example for optional annotations
+  # annotations:
+  #   github.com/project-slug: backstage/backstage
+  #   backstage.io/techdocs-ref: dir:.
+spec:
+  type: website
+  owner: john@example.com
+  lifecycle: experimental
