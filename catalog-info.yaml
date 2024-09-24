@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: a
+  name: b
   description: Ejemplo de como añadir una nueva entidad.
   # Example for optional annotations
   # annotations:
@@ -15,7 +15,7 @@ spec:
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: b
+  name: c
   description: Ejemplo de como añadir una nueva entidad.
   # Example for optional annotations
   # annotations:
