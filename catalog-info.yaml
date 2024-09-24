@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: mi-prueba-añadir-nueva-entidad
+  name: aaaa
   description: Ejemplo de como añadir una nueva entidad.
   # Example for optional annotations
   # annotations:
