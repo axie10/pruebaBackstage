@@ -11,6 +11,7 @@ spec:
   type: website
   owner: john@example.com
   lifecycle: experimental
+  system: GISS
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
